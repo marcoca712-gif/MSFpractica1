@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: 'Practica1: Diseño de controladores'
+title: 'Practica 1: Diseño de controladores'
 message: Modelado de sistemas fisiologicos/ Ingenieria Biomedica
 type: software
 authors:
@@ -12,9 +12,9 @@ authors:
     affiliation: Tecnologico Nacional de Mexico
 identifiers:
   - type: url
-    value: 'https://github.com/marcoca712-gif/MSFPractica-0'
+    value: 'https://github.com/marcoca712-gif/MSFPractica-1'
     description: Repositorio Github
-repository-code: 'https://github.com/marcoca712-gif/MSFPractica-0'
+repository-code: 'https://github.com/marcoca712-gif/MSFPractica-1'
 keywords:
   - Sistema Respiratorio
   - Circuito RLC
