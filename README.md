@@ -4,7 +4,7 @@
 
 ## Información del estudiante
 
-Marco Antonio Campoy Alegria \[21212145]; correo institucional
+Marco Antonio Campoy Alegria \[21212145]; L21212145@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
