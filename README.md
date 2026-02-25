@@ -2,9 +2,9 @@
 
 # Práctica 1: Diseño de controladores
 
-## Información de la estudiante
+## Información del estudiante
 
-Nombres y Apellidos \[No. Control]; correo institucional
+Marco Antonio Campoy Alegria \[21212145]; correo institucional
 
 Modelado de Sistemas Fisiológicos
 
